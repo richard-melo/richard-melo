@@ -20,3 +20,9 @@
     <img aling="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img aling="center" src=" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+<br>
+
+## Status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-melo&layout=compact&theme=dracula)
+
