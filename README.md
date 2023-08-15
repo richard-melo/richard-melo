@@ -26,4 +26,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-melo&layout=compact&theme=dracula)
 
-![snake gif](https://github.com/richard-melo/richard-melo/tree/output/github-contribution-grid-snake.svg)
