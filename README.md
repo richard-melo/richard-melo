@@ -1,28 +1,40 @@
-## Richard Melo 🤓
+<h3>Richard Melo</h3>
 
-#### Contatos 📱
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-netoo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richard.netoo)
+Mid-level Software Engineer focused on web development.  
+Bachelor's degree student in Software Engineering.  
+Experience building scalable web applications using modern JavaScript ecosystems and PHP.  
+Interested in networking and knowledge exchange within the developer community.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-melo&show_icons=true&theme=dracula)
+<div style="display: inline_block"><br>
 
-## Ferramentas utilizadas
+<!-- Languages -->
+<img align="center" alt="JavaScript" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="PHP" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="Python" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<div style="display: inline_block"><br/>
-    <img aling="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img aling="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img aling="center" src=" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<!-- Frontend -->
+<img align="center" alt="React" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<!-- Backend -->
+<img align="center" alt="Node.js" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+<!-- Databases -->
+<img align="center" alt="Oracle" height="30" width="30"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+<img align="center" alt="MySQL" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="PostgreSQL" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Redis" height="30" width="30"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+
+<!-- OS -->
+<img align="center" alt="Fedora" height="30" width="30"
+src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg">
+
 </div>
-<br>
-
-## Status
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard-melo&layout=compact&theme=dracula)
-
